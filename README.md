@@ -1,5 +1,5 @@
 # Helpline-Group 06
-# H.E.L.P. Website
+# Help Website
 The aim of the project is to create H.E.L.P. Website. it provides the information about pricing of devices and contact dtails for emergency
 
 ## Links
