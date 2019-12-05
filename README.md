@@ -25,4 +25,4 @@ You can add the images by posting the images on github and url of the image is p
 Creating a link to the added image can be done by using the img tag.
 
 ## credits
-.[source](https://cweltonsmith.github.io/pbl-website/index.html)
+.[source](https://github.com/Chinmayi98/help-app)
