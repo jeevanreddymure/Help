@@ -25,5 +25,5 @@ You can add the images by posting the images on github and url of the image is p
 Creating a link to the added image can be done by using the img tag.
 
 ## credits
-.[section 4 group-1](https://github.com/Chinmayi98/help-app)
-.[section 1 group-1(logo credits)](https://github.com/cweltonsmith/pbl-website)
+- .[section 4 group-1](https://github.com/Chinmayi98/help-app)
+- .[section 1 group-1(logo credits)](https://github.com/cweltonsmith/pbl-website)
