@@ -26,3 +26,4 @@ Creating a link to the added image can be done by using the img tag.
 
 ## credits
 .[section 4 group-1](https://github.com/Chinmayi98/help-app)
+.[section 1 group-1(logo credits)](https://github.com/cweltonsmith/pbl-website)
